@@ -3,3 +3,6 @@
 	filemode = true
 	bare = false
 	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/salvya123/mywebsite.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
